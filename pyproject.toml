@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "quantopian-lectures"
+version = "0.1.0"
+description = ""
+authors = ["Hooregi <hooregi@halo.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+matplotlib = "^3.7.2"
+yfinance = "^0.2.26"
+statsmodels = "^0.14.0"
+notebook = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
