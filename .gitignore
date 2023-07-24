@@ -1,1 +1,6 @@
+.idea/
 .venv/
+
+*.rmd
+
+poetry.lock
