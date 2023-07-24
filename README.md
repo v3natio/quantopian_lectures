@@ -1,6 +1,6 @@
 # Quantopian Lecture Series
 
-This is a comprehensive repository of all [[Quantopian](https://github.com/quantopian)] lectures. They've been "translated" to `python3`, for example, leveraging libraries such as `yfinance` instead of `get_pricing()`.
+This is a comprehensive repository of all [Quantopian](https://github.com/quantopian) lectures. They've been "translated" to `python3`, for example, leveraging libraries such as `yfinance` instead of `get_pricing()`.
 
 5. Plotting Data — [[Notebook](./quantopian_lectures/5QLS_Plotting-Data.ipynb)] [[Video](https://www.youtube.com/watch?v=nKq_wz3Qk8w)]
 6. Means — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Means)] [[Video](https://www.youtube.com/watch?v=XYbsBsRtCjw)]
