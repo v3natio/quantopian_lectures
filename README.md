@@ -2,11 +2,11 @@
 
 This is a comprehensive repository of all [Quantopian](https://github.com/quantopian) lectures. They've been "translated" to `python3`, for example, leveraging libraries such as `yfinance` instead of `get_pricing()`.
 
-5. Plotting Data — [[Notebook](./quantopian_lectures/5QLS_Plotting-Data.ipynb)] [[Video](https://www.youtube.com/watch?v=nKq_wz3Qk8w)]
-6. Means — [[Notebook](./quantopian_lectures/6QLS_Means.ipynb)] [[Video](https://www.youtube.com/watch?v=XYbsBsRtCjw)]
-7. Variance — [[Notebook](./quantopian_lectures/7QLS_Variance.ipynb)] [[Video](https://www.youtube.com/watch?v=0AWY0odmjSs)]
-8. Statistical Moments — [[Notebook](./quantopian_lectures/8QLS_Statistical-Moments.ipynb)] [[Video](https://www.youtube.com/watch?v=mkVA_xUWDI0)]
-9. Linear Correlation Analysis — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Correlation_Analysis)] [[Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s)]
+5. Plotting Data — [[Notebook](./quantopian_lectures/5QLS_Plotting-Data.ipynb)]
+6. Means — [[Notebook](./quantopian_lectures/6QLS_Means.ipynb)]
+7. Variance — [[Notebook](./quantopian_lectures/7QLS_Variance.ipynb)]
+8. Statistical Moments — [[Notebook](./quantopian_lectures/8QLS_Statistical-Moments.ipynb)]
+9. Linear Correlation Analysis — [[Notebook](./quantopian_lectures/9QLS_Linear-Correlation-Analysis.ipynb)]
 10. Instability of Estimates — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Instability_of_Estimates)] [[Video](https://www.youtube.com/watch?v=2pbu3_6lF40)]
 11. Random Variables — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Random_Variables)]
 12. Linear Regression — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Regression)] [[Video](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s)]
