@@ -8,7 +8,7 @@ This is a comprehensive repository of all [Quantopian](https://github.com/quanto
 8. Statistical Moments — [[Notebook](./quantopian_lectures/8QLS_Statistical-Moments.ipynb)]
 9. Linear Correlation Analysis — [[Notebook](./quantopian_lectures/9QLS_Linear-Correlation-Analysis.ipynb)]
 10. Instability of Estimates — [[Notebook](./quantopian_lectures/10QLS_Instability-of-Estimates.ipynb)]
-11. Random Variables — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Random_Variables)]
+11. Random Variables — [[Notebook](./quantopian_lectures/11QLS_Random-Variables.ipynb)]
 12. Linear Regression — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Linear_Regression)] [[Video](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s)]
 13. Maximum Likelihood Estimation — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Maximum_Likelihood_Estimation)]
 14. Regression Model Instability — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Regression_Model_Instability)] [[Video](https://www.youtube.com/watch?v=HMQ34PfhzGE)]
