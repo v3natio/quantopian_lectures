@@ -12,7 +12,7 @@ This is a comprehensive repository of all [Quantopian](https://github.com/quanto
 12. Linear Regression — [[Notebook](./quantopian_lectures/12QLS_Linear-Regression.ipynb)]
 13. Maximum Likelihood Estimation — [[Notebook](./quantopian_lectures/13QLS_Maximum-Likelihood-Estimation.ipynb)]
 14. Regression Model Instability — [[Notebook](./quantopian_lectures/14QLS_Regression-Model-Instability.ipynb)]
-15. Multiple Linear Regression — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Multiple_Linear_Regression)]
+15. Multiple Linear Regression — [[Notebook](./quantopian_lectures/15QLS_Multiple-Linear-Regression.ipynb)]
 16. Violations of Regression Models — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Violations_of_Regression_Models)] [[Video](https://www.youtube.com/watch?v=xM94MRs8U3M)]
 17. Model Misspecification — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Model_Misspecification)] [[Video](https://www.youtube.com/watch?v=t4peS8Ak-sY)]
 18. Residual Analysis — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Residuals_Analysis)]
