@@ -10,7 +10,7 @@ This is a comprehensive repository of all [Quantopian](https://github.com/quanto
 10. Instability of Estimates — [[Notebook](./quantopian_lectures/10QLS_Instability-of-Estimates.ipynb)]
 11. Random Variables — [[Notebook](./quantopian_lectures/11QLS_Random-Variables.ipynb)]
 12. Linear Regression — [[Notebook](./quantopian_lectures/12QLS_Linear-Regression.ipynb)]
-13. Maximum Likelihood Estimation — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Maximum_Likelihood_Estimation)]
+13. Maximum Likelihood Estimation — [[Notebook](./quantopian_lectures/13QLS_Maximum-Likelihood-Estimation.ipynb)]
 14. Regression Model Instability — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Regression_Model_Instability)] [[Video](https://www.youtube.com/watch?v=HMQ34PfhzGE)]
 15. Multiple Linear Regression — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Multiple_Linear_Regression)]
 16. Violations of Regression Models — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Violations_of_Regression_Models)] [[Video](https://www.youtube.com/watch?v=xM94MRs8U3M)]
