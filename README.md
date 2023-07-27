@@ -13,7 +13,7 @@ This is a comprehensive repository of all [Quantopian](https://github.com/quanto
 13. Maximum Likelihood Estimation — [[Notebook](./quantopian_lectures/13QLS_Maximum-Likelihood-Estimation.ipynb)]
 14. Regression Model Instability — [[Notebook](./quantopian_lectures/14QLS_Regression-Model-Instability.ipynb)]
 15. Multiple Linear Regression — [[Notebook](./quantopian_lectures/15QLS_Multiple-Linear-Regression.ipynb)]
-16. Violations of Regression Models — [[Notebook](./quantopian_lectures/16QLS_Violations of Regression Models.ipynb)]
+16. Violations of Regression Models — [[Notebook](./quantopian_lectures/16QLS_Violations-of-Regression Models.ipynb)]
 17. Model Misspecification — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Model_Misspecification)] [[Video](https://www.youtube.com/watch?v=t4peS8Ak-sY)]
 18. Residual Analysis — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Residuals_Analysis)]
 19. The Dangers of Overfitting — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/The_Dangers_of_Overfitting)] [[Video](https://www.youtube.com/watch?v=KNCgvjyKrcw)]
