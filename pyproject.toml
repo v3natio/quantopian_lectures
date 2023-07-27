@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "quantopian-lectures"
-version = "0.1.0"
-description = ""
-authors = ["Hooregi <hooregi@halo.me>"]
+version = "1.0"
+description = "hooregi's copy of the Quantopian lecture series"
+authors = ["hooregi <hooregi@halo.me>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
