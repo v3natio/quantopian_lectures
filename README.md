@@ -15,7 +15,7 @@ This is a comprehensive repository of all [Quantopian](https://github.com/quanto
 15. Multiple Linear Regression — [[Notebook](./quantopian_lectures/15QLS_Multiple-Linear-Regression.ipynb)]
 16. Violations of Regression Models — [[Notebook](./quantopian_lectures/16QLS_Violations-of-Regression-Models.ipynb)]
 17. Model Misspecification — [[Notebook](./quantopian_lectures/17QLS_Model-Misspecification.ipynb)]
-18. Residual Analysis — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Residuals_Analysis)]
+18. Residual Analysis — [[Notebook](./quantopian_lectures/18QLS_Residual-Analysis.ipynb)]
 19. The Dangers of Overfitting — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/The_Dangers_of_Overfitting)] [[Video](https://www.youtube.com/watch?v=KNCgvjyKrcw)]
 20. Hypothesis Testing — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Hypothesis_Testing)]
 21. Confidence Intervals — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Confidence_Intervals)]
