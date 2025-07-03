@@ -1,6 +1,7 @@
 # Quantopian Lecture Series
 
-This is a comprehensive repository of all [Quantopian](https://github.com/quantopian) lectures. They've been "translated" to `python3`, for example, leveraging libraries such as `yfinance` instead of `get_pricing()`.
+This is a comprehensive repository of all [Quantopian](https://github.com/quantopian) lectures.
+They've been "translated" to `python3`. For example, leveraging libraries such as `yfinance` instead of Quantopian's proprietary`get_pricing()`.
 
 5. Plotting Data — [[Notebook](./quantopian_lectures/5QLS_Plotting-Data.ipynb)]
 6. Means — [[Notebook](./quantopian_lectures/6QLS_Means.ipynb)]
@@ -17,8 +18,11 @@ This is a comprehensive repository of all [Quantopian](https://github.com/quanto
 17. Model Misspecification — [[Notebook](./quantopian_lectures/17QLS_Model-Misspecification.ipynb)]
 18. Residual Analysis — [[Notebook](./quantopian_lectures/18QLS_Residual-Analysis.ipynb)]
 19. The Dangers of Overfitting — [[Notebook](./quantopian_lectures/19QLS_Dangers-of-Overfitting.ipynb)]
-20. Hypothesis Testing — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Hypothesis_Testing)]
-21. Confidence Intervals — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Confidence_Intervals)]
+20. Hypothesis Testing — [[Notebook](./quantopian_lectures/20QLS_Hypothesis-Testing.ipynb)]
+21. Confidence Intervals — [[Notebook](./quantopian_lectures/21QLS_Confidence-Intervals.ipynb)]
+
+## Unfinished
+
 22. p-Hacking and Multiple Comparisons Bias — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/p-Hacking_and_Multiple_Comparisons_Bias)] [[Video](https://www.youtube.com/watch?v=YiDfbYtgUPc)]
 23. Spearman Rank Correlation — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Spearman_Rank_Correlation)] [[Video](https://www.youtube.com/watch?v=GM76JkrVmRk?t=25m51s)]
 24. Leverage — [[Notebook](https://github.com/quantopian/research_public/tree/master/notebooks/lectures/Leverage)]
